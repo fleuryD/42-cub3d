@@ -1,11 +1,17 @@
 # Cub3D - École 42
 
-Ce projet est inspiré du jeu Wolfeinstein3D, considéré comme le premier FPS
+Ce projet est inspiré du jeu [Wolfenstein 3D](http://users.atw.hu/wolf3d/) , considéré comme le premier FPS
 jamais développé. Il vous permettra d’explorer la technique du ray-casting. Votre objectif
 est de faire une vue dynamique au sein d’un labyrinthe, dans lequel vous devrez trouver
 votre chemin.
 
-## Note: 125
+## Status:
+
+Projet de groupe réalisé avec VGiraudo
+
+Validé le 25/07/2023
+
+Note: 125% ✅
 
 ## Présentation
 
