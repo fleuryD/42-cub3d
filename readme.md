@@ -5,6 +5,8 @@ jamais développé. Il vous permettra d’explorer la technique du ray-casting. 
 est de faire une vue dynamique au sein d’un labyrinthe, dans lequel vous devrez trouver
 votre chemin.
 
+![Screenshot](./assets/cub3d-screen.png)
+
 ## Status:
 
 Projet de groupe réalisé avec VGiraudo
